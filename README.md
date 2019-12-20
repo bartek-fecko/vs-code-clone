@@ -1,5 +1,3 @@
-# js platformer game
+# vs-code clone
 
-preview: https://platformergame.herokuapp.com/
-
-platformer game created with phaser js libray. Still many things to do.
+online vs code clone
